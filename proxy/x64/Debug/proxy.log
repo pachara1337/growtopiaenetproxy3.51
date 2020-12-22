@@ -1,0 +1,5 @@
+﻿  gt.cpp
+C:\Users\eiffel\Desktop\enetproxy-master\proxy\proton\variant.hpp(321,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\eiffel\Desktop\enetproxy-master\proxy\proton\variant.hpp(338,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\eiffel\Desktop\enetproxy-master\proxy\proton\variant.hpp(354,1): warning C4267: 'initializing': conversion from 'size_t' to 'uint32_t', possible loss of data
+  proxy.vcxproj -> C:\Users\eiffel\Desktop\enetproxy-master\x64\Debug\proxy.exe
